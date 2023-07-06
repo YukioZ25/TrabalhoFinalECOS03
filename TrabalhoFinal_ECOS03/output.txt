@@ -1,0 +1,495 @@
+SRTN
+
+Executando processo 1 por 1 unidade de tempo. Resta 13
+Executando processo 2 por 1 unidade de tempo. Resta 6
+Executando processo 2 por 1 unidade de tempo. Resta 5
+Executando processo 4 por 1 unidade de tempo. Resta 1
+Processo 4 concluido.
+Executando processo 4 por 1 unidade de tempo. Resta 0
+Processo 4 concluido.
+Executando processo 6 por 1 unidade de tempo. Resta 3
+Executando processo 6 por 1 unidade de tempo. Resta 2
+Executando processo 6 por 1 unidade de tempo. Resta 1
+Processo 6 concluido.
+Executando processo 8 por 1 unidade de tempo. Resta 1
+Processo 8 concluido.
+Executando processo 10 por 1 unidade de tempo. Resta 1
+Processo 10 concluido.
+Executando processo 10 por 1 unidade de tempo. Resta 0
+Processo 10 concluido.
+Executando processo 2 por 1 unidade de tempo. Resta 4
+Executando processo 2 por 1 unidade de tempo. Resta 3
+Executando processo 2 por 1 unidade de tempo. Resta 2
+Buffer cheio! O processo com ID 15 nao pode ser adicionado no buffer principal.
+Executando processo 2 por 1 unidade de tempo. Resta 1
+Processo 2 concluido.
+Executando processo 14 por 1 unidade de tempo. Resta 3
+Buffer cheio! O processo com ID 17 nao pode ser adicionado no buffer principal.
+Executando processo 14 por 1 unidade de tempo. Resta 2
+Buffer cheio! O processo com ID 18 nao pode ser adicionado no buffer principal.
+Executando processo 14 por 1 unidade de tempo. Resta 1
+Processo 14 concluido.
+Executando processo 19 por 1 unidade de tempo. Resta 2
+Buffer cheio! O processo com ID 20 nao pode ser adicionado no buffer principal.
+Executando processo 19 por 1 unidade de tempo. Resta 1
+Processo 19 concluido.
+Executando processo 19 por 1 unidade de tempo. Resta 0
+Processo 19 concluido.
+Executando processo 16 por 1 unidade de tempo. Resta 5
+Executando processo 16 por 1 unidade de tempo. Resta 4
+Executando processo 16 por 1 unidade de tempo. Resta 3
+Executando processo 16 por 1 unidade de tempo. Resta 2
+Executando processo 16 por 1 unidade de tempo. Resta 1
+Processo 16 concluido.
+Executando processo 16 por 1 unidade de tempo. Resta 0
+Processo 16 concluido.
+Executando processo 5 por 1 unidade de tempo. Resta 7
+Executando processo 5 por 1 unidade de tempo. Resta 6
+Executando processo 5 por 1 unidade de tempo. Resta 5
+Executando processo 5 por 1 unidade de tempo. Resta 4
+Executando processo 5 por 1 unidade de tempo. Resta 3
+Executando processo 5 por 1 unidade de tempo. Resta 2
+Executando processo 5 por 1 unidade de tempo. Resta 1
+Processo 5 concluido.
+Executando processo 11 por 1 unidade de tempo. Resta 7
+Executando processo 11 por 1 unidade de tempo. Resta 6
+Executando processo 11 por 1 unidade de tempo. Resta 5
+Executando processo 11 por 1 unidade de tempo. Resta 4
+Executando processo 11 por 1 unidade de tempo. Resta 3
+Executando processo 11 por 1 unidade de tempo. Resta 2
+Executando processo 11 por 1 unidade de tempo. Resta 1
+Processo 11 concluido.
+Executando processo 3 por 1 unidade de tempo. Resta 8
+Executando processo 3 por 1 unidade de tempo. Resta 7
+Executando processo 3 por 1 unidade de tempo. Resta 6
+Executando processo 3 por 1 unidade de tempo. Resta 5
+Executando processo 3 por 1 unidade de tempo. Resta 4
+Executando processo 3 por 1 unidade de tempo. Resta 3
+Executando processo 3 por 1 unidade de tempo. Resta 2
+Executando processo 3 por 1 unidade de tempo. Resta 1
+Processo 3 concluido.
+Executando processo 7 por 1 unidade de tempo. Resta 8
+Executando processo 7 por 1 unidade de tempo. Resta 7
+Executando processo 7 por 1 unidade de tempo. Resta 6
+Executando processo 7 por 1 unidade de tempo. Resta 5
+Executando processo 7 por 1 unidade de tempo. Resta 4
+Executando processo 7 por 1 unidade de tempo. Resta 3
+Executando processo 7 por 1 unidade de tempo. Resta 2
+Executando processo 7 por 1 unidade de tempo. Resta 1
+Processo 7 concluido.
+Executando processo 13 por 1 unidade de tempo. Resta 8
+Executando processo 13 por 1 unidade de tempo. Resta 7
+Executando processo 13 por 1 unidade de tempo. Resta 6
+Executando processo 13 por 1 unidade de tempo. Resta 5
+Executando processo 13 por 1 unidade de tempo. Resta 4
+Executando processo 13 por 1 unidade de tempo. Resta 3
+Executando processo 13 por 1 unidade de tempo. Resta 2
+Executando processo 13 por 1 unidade de tempo. Resta 1
+Processo 13 concluido.
+Executando processo 13 por 1 unidade de tempo. Resta 0
+Processo 13 concluido.
+Executando processo 12 por 1 unidade de tempo. Resta 9
+Executando processo 12 por 1 unidade de tempo. Resta 8
+Executando processo 12 por 1 unidade de tempo. Resta 7
+Executando processo 12 por 1 unidade de tempo. Resta 6
+Executando processo 12 por 1 unidade de tempo. Resta 5
+Executando processo 12 por 1 unidade de tempo. Resta 4
+Executando processo 12 por 1 unidade de tempo. Resta 3
+Executando processo 12 por 1 unidade de tempo. Resta 2
+Executando processo 12 por 1 unidade de tempo. Resta 1
+Processo 12 concluido.
+Executando processo 12 por 1 unidade de tempo. Resta 0
+Processo 12 concluido.
+
+
+MULTILEVEL FEEDBACK QUEUE
+Processo 1 adicionado na fila 1
+Processo 2 adicionado na fila 2
+Processo 3 adicionado na fila 1
+Processo 4 adicionado na fila 2
+Processo 5 adicionado na fila 1
+Processo 6 adicionado na fila 2
+Processo 7 adicionado na fila 1
+Processo 8 adicionado na fila 2
+Processo 9 adicionado na fila 1
+Processo 10 adicionado na fila 2
+Processo 11 adicionado na fila 1
+Processo 12 adicionado na fila 2
+Processo 13 adicionado na fila 1
+Processo 14 adicionado na fila 2
+Processo 15 adicionado na fila 1
+Processo 16 adicionado na fila 2
+Processo 17 adicionado na fila 1
+Processo 18 adicionado na fila 2
+Processo 19 adicionado na fila 1
+Processo 20 adicionado na fila 2
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 2. Falta 11
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 2. Falta 6
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 2. Falta 5
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 2. Falta 6
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 2. Falta 10
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 2. Falta 5
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 2. Falta 6
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 2. Falta 5
+
+Executando processo 17 por 2 unidades de tempo.
+Processo 17 realimentado para o nivel 2. Falta 2
+
+Executando processo 19 por 2 unidades de tempo.
+
+Processo 19 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 3. Falta 9
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 3. Falta 4
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 3. Falta 3
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 3. Falta 4
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 3. Falta 8
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 3. Falta 3
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 3. Falta 4
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 3. Falta 3
+
+Executando processo 17 por 2 unidades de tempo.
+
+Processo 17 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 4. Falta 7
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 4. Falta 2
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 4. Falta 1
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 4. Falta 2
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 4. Falta 6
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 4. Falta 1
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 4. Falta 2
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 4. Falta 1
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 5. Falta 5
+
+Executando processo 3 por 2 unidades de tempo.
+
+Processo 3 concluido.
+
+Executando processo 5 por 1 unidades de tempo.
+
+Processo 5 concluido.
+
+Executando processo 7 por 2 unidades de tempo.
+
+Processo 7 concluido.
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 5. Falta 4
+
+Executando processo 11 por 1 unidades de tempo.
+
+Processo 11 concluido.
+
+Executando processo 13 por 2 unidades de tempo.
+
+Processo 13 concluido.
+
+Executando processo 15 por 1 unidades de tempo.
+
+Processo 15 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 6. Falta 3
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 6. Falta 2
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 7. Falta 1
+
+Executando processo 9 por 2 unidades de tempo.
+
+Processo 9 concluido.
+
+Executando processo 1 por 1 unidades de tempo.
+
+Processo 1 concluido.
+
+Executando processo 2 por 4 unidades de tempo.
+Processo 2 realimentado para o nivel 2. Falta 2
+
+Executando processo 2 por 2 unidades de tempo.
+
+Processo 2 concluido.
+
+Executando processo 4 por 1 unidades de tempo.
+
+Processo 4 concluido.
+
+Executando processo 6 por 3 unidades de tempo.
+
+Processo 6 concluido.
+
+Executando processo 8 por 1 unidades de tempo.
+
+Processo 8 concluido.
+
+Executando processo 10 por 1 unidades de tempo.
+
+Processo 10 concluido.
+
+Executando processo 12 por 4 unidades de tempo.
+Processo 12 realimentado para o nivel 2. Falta 5
+
+Executando processo 12 por 2 unidades de tempo.
+Processo 12 realimentado para o nivel 3. Falta 3
+
+Executando processo 12 por 2 unidades de tempo.
+Processo 12 realimentado para o nivel 4. Falta 1
+
+Executando processo 12 por 1 unidades de tempo.
+
+Processo 12 concluido.
+
+Executando processo 14 por 3 unidades de tempo.
+
+Processo 14 concluido.
+
+Executando processo 16 por 4 unidades de tempo.
+Processo 16 realimentado para o nivel 2. Falta 1
+
+Executando processo 16 por 1 unidades de tempo.
+
+Processo 16 concluido.
+
+Executando processo 18 por 1 unidades de tempo.
+
+Processo 18 concluido.
+
+Executando processo 20 por 1 unidades de tempo.
+
+Processo 20 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 2. Falta 11
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 2. Falta 6
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 2. Falta 5
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 2. Falta 6
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 2. Falta 10
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 2. Falta 5
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 2. Falta 6
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 2. Falta 5
+
+Executando processo 17 por 2 unidades de tempo.
+Processo 17 realimentado para o nivel 2. Falta 2
+
+Executando processo 19 por 2 unidades de tempo.
+
+Processo 19 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 3. Falta 9
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 3. Falta 4
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 3. Falta 3
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 3. Falta 4
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 3. Falta 8
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 3. Falta 3
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 3. Falta 4
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 3. Falta 3
+
+Executando processo 17 por 2 unidades de tempo.
+
+Processo 17 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 4. Falta 7
+
+Executando processo 3 por 2 unidades de tempo.
+Processo 3 realimentado para o nivel 4. Falta 2
+
+Executando processo 5 por 2 unidades de tempo.
+Processo 5 realimentado para o nivel 4. Falta 1
+
+Executando processo 7 por 2 unidades de tempo.
+Processo 7 realimentado para o nivel 4. Falta 2
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 4. Falta 6
+
+Executando processo 11 por 2 unidades de tempo.
+Processo 11 realimentado para o nivel 4. Falta 1
+
+Executando processo 13 por 2 unidades de tempo.
+Processo 13 realimentado para o nivel 4. Falta 2
+
+Executando processo 15 por 2 unidades de tempo.
+Processo 15 realimentado para o nivel 4. Falta 1
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 5. Falta 5
+
+Executando processo 3 por 2 unidades de tempo.
+
+Processo 3 concluido.
+
+Executando processo 5 por 1 unidades de tempo.
+
+Processo 5 concluido.
+
+Executando processo 7 por 2 unidades de tempo.
+
+Processo 7 concluido.
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 5. Falta 4
+
+Executando processo 11 por 1 unidades de tempo.
+
+Processo 11 concluido.
+
+Executando processo 13 por 2 unidades de tempo.
+
+Processo 13 concluido.
+
+Executando processo 15 por 1 unidades de tempo.
+
+Processo 15 concluido.
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 6. Falta 3
+
+Executando processo 9 por 2 unidades de tempo.
+Processo 9 realimentado para o nivel 6. Falta 2
+
+Executando processo 1 por 2 unidades de tempo.
+Processo 1 realimentado para o nivel 7. Falta 1
+
+Executando processo 9 por 2 unidades de tempo.
+
+Processo 9 concluido.
+
+Executando processo 1 por 1 unidades de tempo.
+
+Processo 1 concluido.
+
+Executando processo 2 por 4 unidades de tempo.
+Processo 2 realimentado para o nivel 2. Falta 2
+
+Executando processo 2 por 2 unidades de tempo.
+
+Processo 2 concluido.
+
+Executando processo 4 por 1 unidades de tempo.
+
+Processo 4 concluido.
+
+Executando processo 6 por 3 unidades de tempo.
+
+Processo 6 concluido.
+
+Executando processo 8 por 1 unidades de tempo.
+
+Processo 8 concluido.
+
+Executando processo 10 por 1 unidades de tempo.
+
+Processo 10 concluido.
+
+Executando processo 12 por 4 unidades de tempo.
+Processo 12 realimentado para o nivel 2. Falta 5
+
+Executando processo 12 por 2 unidades de tempo.
+Processo 12 realimentado para o nivel 3. Falta 3
+
+Executando processo 12 por 2 unidades de tempo.
+Processo 12 realimentado para o nivel 4. Falta 1
+
+Executando processo 12 por 1 unidades de tempo.
+
+Processo 12 concluido.
+
+Executando processo 14 por 3 unidades de tempo.
+
+Processo 14 concluido.
+
+Executando processo 16 por 4 unidades de tempo.
+Processo 16 realimentado para o nivel 2. Falta 1
+
+Executando processo 16 por 1 unidades de tempo.
+
+Processo 16 concluido.
+
+Executando processo 18 por 1 unidades de tempo.
+
+Processo 18 concluido.
+
+Executando processo 20 por 1 unidades de tempo.
+
+Processo 20 concluido.
+
